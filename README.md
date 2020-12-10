@@ -1,7 +1,7 @@
 # Traffic-Sign-Classifier
 
 ## Description:
-The objective of this project was to build a neural network to classify the Traffic Signs for an autonomous vehicle. Our network was inspired from the LeNet architecture as shown in the below.
+The objective of this project was to build a neural network to classify the Traffic Signs for an autonomous vehicle. Our network was inspired from the LeNet architecture as shown in the below ![figure](network.png)
 
 ## Dataset Used:
 We made use of the German Traffic Sign  Detection Benchmark (GTSDB). More information about the dataset can be found [here.](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset)
