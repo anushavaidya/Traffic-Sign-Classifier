@@ -6,7 +6,7 @@ The objective of this project was to build a neural network to classify the Traf
 ## Dataset Used:
 We made use of the German Traffic Sign  Detection Benchmark (GTSDB). More information about the dataset can be found [here.](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset)
 
-The dataset consists of over 50,000 images of the traffic signs divided into 43 unique classes as shown. The dataset covers 34799 training images, 4410 validation images and 12630 testing images respectively. Each image is of the shape 32 x 32 with 3 channels (RGB).
+The dataset consists of over 50,000 images of the traffic signs divided into 43 unique classes. The dataset covers 34799 training images, 4410 validation images and 12630 testing images respectively. Each image is of the shape 32 x 32 with 3 channels (RGB). 
 
 ## What you will need to run:
 * Python 3.6+
@@ -20,7 +20,7 @@ If your code is running on GPU: `pip install torch==1.6.0+cu101 torchvision==0.7
 
 
 ## How to run:
-Clone this repository and run traffic_sign_classifier.ipynb in jupyter notebook
+Clone this repository and run traffic_sign_classifier.ipynb in jupyter notebook or Google Colab.
 
 ## Team Members 
 * Willam Sweeten 
