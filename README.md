@@ -1,11 +1,12 @@
 # Traffic-Sign-Classifier
 
 ## Description:
-The objective of this project was to build a neural network to classify the Traffic Signs for an autonomous vehicle. Our network was inspired from the LeNet architecture as shown in the below ![figure](network.PNG)
+The objective of this project was to build a neural network to classify the Traffic Signs for an autonomous vehicle. Our network was inspired from the LeNet architecture as shown in the below figure.![figure](network.PNG)
 
 ## Dataset Used:
 We made use of the German Traffic Sign  Detection Benchmark (GTSDB). More information about the dataset can be found [here.](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset)
 
+The dataset consists of over 50,000 images of the traffic signs divided into 43 unique classes as shown. The dataset covers 34799 training images, 4410 validation images and 12630 testing images respectively. Each image is of the shape 32 x 32 with 3 channels (RGB).
 
 ## What you will need to run:
 * Python 3.6+
